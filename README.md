@@ -17,3 +17,6 @@ Framework preset **Vite**, build command `npm run build`, output directory `dist
 
 ## Important
 No licensed capacity is displayed on public pages. Images are illustrative stock photographs, not actual images of this center. The supplied logo was not independently authenticated to the organization. The spreadsheet Facebook URL was left out pending identity confirmation. See `UNVERIFIED-ITEMS-AUDIT.md`.
+
+
+Facebook link: https://www.facebook.com/p/Little-Learners-Child-Development-Center-100089490465345/ (provided by the master spreadsheet; included at user request).

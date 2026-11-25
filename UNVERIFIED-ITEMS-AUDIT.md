@@ -31,3 +31,7 @@ Audit date: November 25, 2026
 2. Verify current operating hours and ages with Oklahoma Human Services or provider.
 3. Confirm official license status and quality level.
 4. Replace illustrative stock imagery with authorized photographs if desired.
+
+
+## Facebook inclusion update
+The Facebook URL https://www.facebook.com/p/Little-Learners-Child-Development-Center-100089490465345/ is included in all website footers at the user's explicit request. The URL comes from the master spreadsheet; page ownership has not been independently verified.
